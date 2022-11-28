@@ -1,0 +1,9 @@
+.winner{
+    display: grid;
+    grid-area: auto;
+    grid-template: 30%, 40%, 30%;
+}
+
+.mb{
+    border: 1px;
+}

@@ -133,6 +133,9 @@ input{
 	border: none;
 	margin-left: -5px;
 }
+.butt2:hover {
+	background: black;
+}
 hr{
 	height: 10px;
 	background-color: grey;
